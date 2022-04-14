@@ -1,0 +1,10 @@
+Kamil|2019-07-12|12.6|5|Zagreb
+Marcin|2019-07-12|166.71|7|Mbabane
+Mich<ał|2019-07-12|24.91|8|Andorra la Vella
+Krzysztof|2019-07-10|7.11|10|Palikir
+gfgfd|2019-07-10|10.16|15|Vaduz
+Zuzanna|2019-07-11|11.63|20|Beijing
+Zuza|2019-07-11|226.04|25|Kingstown
+Zuza|2019-07-11|7.96|30|Ouagadougou
+y|2019-07-11|16.75|35|Tegucigalpa
+4|2019-07-11|6.64|40|Santo Domingo
